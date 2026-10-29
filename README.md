@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hafiza Mehjabeen
 
-<!--
-**HafizaMehjabeen/HafizaMehjabeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hafiza Mehjabeen (Hafiza M. on Upwork) is a Shopify developer based in Lahore, Pakistan, building Liquid themes, custom sections and Shopify apps. React and Next.js websites are a second area of work.
 
-Here are some ideas to get you started:
+## What I do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Shopify themes** on Online Store 2.0: Liquid, custom sections, blocks and schema settings
+- **Shopify apps** and theme app extensions with Remix, React, Node.js and the MERN stack
+- **Speed and fixes**: Core Web Vitals, product-page problems, app conflicts, conversion-focused changes
+- **React and Next.js** websites, including healthcare practice sites
+
+## Stack
+
+Shopify, Liquid, Online Store 2.0, Remix, React, Next.js, Node.js, JavaScript, HTML, CSS, Figma
+
+## Selected work
+
+- [ShopFlex](https://apps.shopify.com/shopflex-1): social icons and widget app on the Shopify App Store
+- [iamstripes.com](https://iamstripes.com): Shopify 2.0 store for a beauty and skincare brand
+- [hellostudio.store](https://hellostudio.store): Shopify storefront design and theme build
+- [pflegebox-daheim.de](https://pflegebox-daheim.de): healthcare website, Figma to React
+- [hno-in-eppendorf.de](https://hno-in-eppendorf.de): ENT practice website in Hamburg, React and Next.js
+
+Most client repositories are private.
+
+## Certification
+
+Shopify: Liquid Storefronts for Theme Developers (January 2024)
+
+## Work with me
+
+Top Rated on Upwork with 100% Job Success: [upwork.com/freelancers/hafizamehjabeen](https://www.upwork.com/freelancers/hafizamehjabeen)
+
+Send a store URL and what isn't working, or book the 30-minute Shopify Store Audit on Upwork.
