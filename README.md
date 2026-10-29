@@ -15,6 +15,7 @@ Shopify, Liquid, Online Store 2.0, Remix, React, Next.js, Node.js, JavaScript, H
 
 ## Selected work
 
+- [Peak Post Purchase Survey](https://apps.shopify.com/survey-3): post-purchase survey app for the Thank you and Order status pages, live on the Shopify App Store
 - [ShopFlex](https://apps.shopify.com/shopflex-1): social icons and widget app on the Shopify App Store
 - [iamstripes.com](https://iamstripes.com): Shopify 2.0 store for a beauty and skincare brand
 - [hellostudio.store](https://hellostudio.store): Shopify storefront design and theme build
